@@ -29,3 +29,7 @@ target/
 # App-specific
 src-tauri/binaries/
 whisper.cpp/
+
+# API Keys and secrets
+Groq Key.txt
+
